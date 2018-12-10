@@ -1,0 +1,7 @@
+#!/usr/bin/env groovy
+
+// Script //
+node {
+  echo 'Hello World'
+}
+// Declarative not yet implemented //
